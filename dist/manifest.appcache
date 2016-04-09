@@ -1,0 +1,45 @@
+CACHE MANIFEST
+# sw.bundle: ng-cli
+# sw.version: 9f723b983e96f95f2d7e002bc530437315c52394
+# sw.file.hash: 3f1769fa92d8729e87aa50d44d22e7d76391e246
+/app.js
+# sw.file.hash: c0f0e5eda6fec054f691d1800c682474f6454f8b
+/app.js.map
+# sw.file.hash: 7d1b80efe8ede70c6c0051382d51e7f3b621d96e
+/app/my-project.html
+# sw.file.hash: eef04baee007f05d6110eb83a6ce6b2a2a5e0e81
+/app/my-project.js
+# sw.file.hash: f6a1a48b6283ce68b1550f41605b8faca2fd63ac
+/app/my-project.js.map
+# sw.file.hash: 5a30cf9213446aef4328e93cea54580e1ed6caa4
+/app/my-project.spec.js
+# sw.file.hash: 0c7dd65ffc1567eaf3635ed2df0e89833b9698ff
+/app/my-project.spec.js.map
+# sw.file.hash: 8777ea42c1796418d6396685ed4ffb84816a2eaa
+/app/route-config.js
+# sw.file.hash: a76ea96f1c0a6d7bfcf67d81abab01e6d6b41838
+/app/route-config.js.map
+# sw.file.hash: 84161b857f5c547e3699ddfbffc6d8d737542e01
+/favicon.ico
+# sw.file.hash: 83a63f7680b29d5a35f4858d2b303a79645c2732
+/index.html
+# sw.file.hash: e5e036b749a151842a579c1f964e7e57e9abd09d
+/tsconfig.json
+# sw.file.hash: be771bd0a4170c04abff753212def2a2376a408e
+/vendor/angular2/bundles/angular2-polyfills.js
+# sw.file.hash: bf6570ef9f7655ac76c11d3383716a9c182b7229
+/vendor/angular2/bundles/angular2.dev.js
+# sw.file.hash: e161d053cf096f7e43daa9aafc58026972429e6c
+/vendor/angular2/bundles/http.dev.js
+# sw.file.hash: 90796944735dcf41318c43d57b5753e9affb56be
+/vendor/angular2/bundles/router.dev.js
+# sw.file.hash: ea0d5118949013b3cacdeda5f73c250cab615804
+/vendor/angular2/bundles/upgrade.dev.js
+# sw.file.hash: 2adbdc3a7b6d85ac53b76b52234f28b16c88c7b2
+/vendor/es6-shim/es6-shim.js
+# sw.file.hash: 736fe8675af5630486329adf5efe12ec7be449b1
+/vendor/rxjs/bundles/Rx.js
+# sw.file.hash: 064ab212cfd9e125474ae3bbb600c366b31e79cb
+/vendor/systemjs/dist/system-polyfills.js
+# sw.file.hash: 83128f4a4209eb7b16ad0bb729fda6939bc450fc
+/vendor/systemjs/dist/system.src.js
